@@ -1,0 +1,58 @@
+Country Name: Kingdom of Denmark / Denmark
+Country Name: Republic of the Congo / Republic of the Congo
+Country Name: Vatican City State / Vatican City
+Country Name: New Caledonia / New Caledonia
+Country Name: State of Israel / Israel
+Country Name: British Indian Ocean Territory / British Indian Ocean Territory
+
+
+
+Country Name: ("British Indian Ocean Territory"/"British Indian Ocean Territory")
+Country Name: ("Kingdom of Denmark"/"Denmark")
+Country Name: ("New Caledonia"/"New Caledonia")
+Country Name: ("Republic of the Congo"/"Republic of the Congo")
+Country Name: ("State of Israel"/"Israel")
+Country Name: ("Vatican City State"/"Vatican City")
+
+Country Name: (British Indian Ocean Territory/British Indian Ocean Territory)
+Country Name: (Kingdom of Denmark/Denmark)
+Country Name: (New Caledonia/New Caledonia)
+Country Name: (Republic of the Congo/Republic of the Congo)
+Country Name: (State of Israel/Israel)
+Country Name: (Vatican City State/Vatican City)
+
+Country Name: Kingdom of Denmark/Denmark
+Country Name: Republic of the Congo/Republic of the Congo
+Country Name: Vatican City State/Vatican City
+Country Name: New Caledonia/New Caledonia
+Country Name: State of Israel Israel
+Country Name: British Indian Ocean Territory/British Indian Ocean Territory
+
+Country Name: "eng"/"British Indian Ocean Territory"
+Country Name: "dan"/"Denmark"
+Country Name: "fra"/"New Caledonia"
+Country Name: "fra"/"Republic of the Congo"
+Country Name: "ara"/"Israel"
+Country Name: "ita"/"Vatican City"
+
+
+Country Name: ara/Israel
+Country Name: dan/Denmark
+Country Name: eng/British Indian Ocean Territory
+Country Name: fra/Republic of the Congo
+Country Name: fra/New Caledonia
+Country Name: ita/Vatican City
+
+Country Name: (ara/Israel)
+Country Name: (dan/Denmark)
+Country Name: (eng/British Indian Ocean Territory)
+Country Name: (fra/Republic of the Congo)
+Country Name: (fra/New Caledonia)
+Country Name: (ita/Vatican City)
+
+Country Name: (Israeli new shekel/Israel)
+Country Name: (Danish krone/Denmark)
+Country Name: (eng/British Indian Ocean Territory)
+Country Name: (CFP franc/New Caledonia)
+Country Name: (Central African CFA franc/Republic of the Congo)
+Country Name: (ita/Vatican City)
